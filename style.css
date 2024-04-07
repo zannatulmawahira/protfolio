@@ -21,6 +21,10 @@ navbar{
     border-radius: 100%;
     background-color: rgb(205, 76, 76)
 }
+.nav-link{
+    margin-left: 50PX;
+    margin-right: 50PX;
+}
 
     
 
